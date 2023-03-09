@@ -1,0 +1,7 @@
+D:\Desarrollo\AddPagosEfectuados\Vistony.PagosEfectuados.BO\bin\Debug\Vistony.PagosEfectuados.BO.dll
+D:\Desarrollo\AddPagosEfectuados\Vistony.PagosEfectuados.BO\bin\Debug\Vistony.PagosEfectuados.BO.pdb
+D:\Desarrollo\AddPagosEfectuados\Vistony.PagosEfectuados.BO\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\AddPagosEfectuados\Vistony.PagosEfectuados.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\AddPagosEfectuados\Vistony.PagosEfectuados.BO\obj\Debug\Vistony.PagosEfectuados.BO.dll
+D:\Desarrollo\AddPagosEfectuados\Vistony.PagosEfectuados.BO\obj\Debug\Vistony.PagosEfectuados.BO.pdb
+D:\Desarrollo\AddPagosEfectuados\Vistony.PagosEfectuados.BO\obj\Debug\Vistony.PagosEfectuados.BO.csprojResolveAssemblyReference.cache
